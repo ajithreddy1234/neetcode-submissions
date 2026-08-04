@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
@@ -92,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
@@ -102,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Simulation
 |  |
@@ -111,4 +114,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
