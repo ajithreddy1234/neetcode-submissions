@@ -158,5 +158,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
