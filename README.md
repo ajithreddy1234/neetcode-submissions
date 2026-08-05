@@ -136,6 +136,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0206-reverse-linked-list) |
@@ -150,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Math
