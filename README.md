@@ -134,6 +134,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 ## Design
 |  |
 | ------- |
@@ -142,4 +143,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
