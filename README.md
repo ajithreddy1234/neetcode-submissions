@@ -145,6 +145,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
@@ -175,6 +176,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0143-reorder-list) |
@@ -184,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## String
 |  |
