@@ -13,7 +13,7 @@ class Solution:
         dummy=ListNode(0)
         po=dummy
         while curr:
-            if n==1 or n%2!=0:
+            if n%2!=0:
                 d=curr.next
                 prev.next=d
                 po.next=ListNode(curr.val)
