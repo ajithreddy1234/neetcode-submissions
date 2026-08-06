@@ -127,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
@@ -155,6 +156,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0143-reorder-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
@@ -202,6 +204,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0142-linked-list-cycle-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
