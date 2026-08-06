@@ -16,9 +16,8 @@ class Solution:
             if n==1 or n%2!=0:
                 d=curr.next
                 prev.next=d
-                curr.next=None
-                po.next=curr
-                po=curr
+                po.next=ListNode(curr.val)
+                po=po.next
                 curr=d 
             else:
                 prev=curr
