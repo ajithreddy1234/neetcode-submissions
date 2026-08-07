@@ -13,7 +13,7 @@ class Solution:
         cur=0
         for r in range(len(nums)):
             cur+=nums[r]
-            while cur>su and l<r:
+            while cur>su and l<=r:
                 print(cur)
                 cur-=nums[l]
                 l+=1
