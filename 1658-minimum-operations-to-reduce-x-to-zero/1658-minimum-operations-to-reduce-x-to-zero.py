@@ -1,33 +1,26 @@
 class Solution:
     def minOperations(self, nums: List[int], x: int) -> int:
-        if min(nums)>x:
+        total = sum(nums)
+        target = total - x
+
+        if target < 0:
             return -1
-        res=-float("inf")
-        ioo=sum(nums)
-        if ioo<x:
-            return -1
-        if ioo==x:
+
+        if target == 0:
             return len(nums)
-        su=ioo-x
-        l=0
-        cur=0
-        for r in range(len(nums)):
-            cur+=nums[r]
-            while cur>su and l<=r:
-                print(cur)
-                cur-=nums[l]
-                l+=1
-            if cur==su:
-                print(1)
-                res=max(res,r-l+1)
-        print(res,len(nums),ioo)
-        
-        return len(nums)-res if res!=-float("inf") else -1
 
-            
+        left = 0
+        current = 0
+        max_len = -1
 
-        
+        for right in range(len(nums)):
+            current += nums[right]
 
+            while current > target:
+                current -= nums[left]
+                left += 1
 
-        
-        
+            if current == target:
+                max_len = max(max_len, right - left + 1)
+
+        return len(nums) - max_len if max_len != -1 else -1
