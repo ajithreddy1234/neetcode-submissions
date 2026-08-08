@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
@@ -233,6 +234,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -276,6 +279,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
@@ -296,6 +300,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Ordered Set
 |  |
 | ------- |
