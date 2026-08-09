@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -130,6 +131,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -330,6 +332,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
