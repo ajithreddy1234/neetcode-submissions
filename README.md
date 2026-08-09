@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
@@ -290,6 +291,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -325,4 +327,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0039-combination-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
