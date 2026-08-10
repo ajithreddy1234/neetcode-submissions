@@ -15,6 +15,6 @@ class Solution:
             right=dfs(node.right)
             res=max(res,node.val+left+right,node.val,node.val+max(left,right))
             return node.val+max(0,left,right)
-        x=dfs(root)
-        return max(res,x)
+        dfs(root)
+        return res
         
