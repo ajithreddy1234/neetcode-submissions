@@ -354,6 +354,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -375,6 +376,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -388,4 +390,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
