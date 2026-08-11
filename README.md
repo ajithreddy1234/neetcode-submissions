@@ -402,6 +402,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0572-subtree-of-another-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -433,6 +434,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0572-subtree-of-another-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -461,4 +463,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
