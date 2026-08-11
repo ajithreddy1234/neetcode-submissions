@@ -367,6 +367,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -427,6 +430,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
