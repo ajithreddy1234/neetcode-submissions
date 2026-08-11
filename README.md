@@ -361,6 +361,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -391,6 +392,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -416,6 +418,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -436,9 +439,15 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
