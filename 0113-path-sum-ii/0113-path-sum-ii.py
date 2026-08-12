@@ -18,7 +18,6 @@ class Solution:
             dfs(node.left,cur,total)
             dfs(node.right,cur,total)
             cur.pop()
-            total-=node.val
         dfs(root,[],0)
         return ans
             
