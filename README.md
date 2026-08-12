@@ -140,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -169,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -383,6 +385,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0687-longest-univalue-path) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -431,6 +434,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0687-longest-univalue-path](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -446,6 +450,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -480,6 +485,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0687-longest-univalue-path](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
