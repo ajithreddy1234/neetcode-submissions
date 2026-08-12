@@ -248,6 +248,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
@@ -361,6 +362,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -396,6 +398,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -431,6 +434,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
