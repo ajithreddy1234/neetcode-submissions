@@ -247,6 +247,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
@@ -353,6 +354,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0101-symmetric-tree) |
@@ -389,6 +391,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0101-symmetric-tree) |
@@ -425,6 +428,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0101-symmetric-tree) |
