@@ -240,6 +240,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -351,6 +352,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -372,6 +374,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -415,6 +418,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -462,6 +466,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
