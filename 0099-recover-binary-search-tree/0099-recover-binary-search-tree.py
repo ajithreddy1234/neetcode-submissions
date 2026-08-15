@@ -6,20 +6,20 @@
 #         self.right = right
 class Solution:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
-        first=None
+        First=None
         second=None
         prev=None
-        def inorder(node):
-            nonlocal first,second,prev
+        def dfs(node):
+            nonlocal First,second,prev
             if not node:
                 return
-            inorder(node.left)
+            dfs(node.left)
             if prev and prev.val>node.val:
-                if not first:
-                    first=prev
+                if not First:
+                    First=prev
                 second=node
             prev=node
-            inorder(node.right)
-            return
-        inorder(root)
-        first.val,second.val=second.val,first.val
+            dfs(node.right)
+        dfs(root)
+        First.val,second.val=second.val,First.val
+
