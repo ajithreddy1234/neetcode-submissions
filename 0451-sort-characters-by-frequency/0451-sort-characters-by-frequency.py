@@ -5,11 +5,10 @@ class Solution:
         heap=[]
         for key,value in x.items():
             heapq.heappush(heap,(-value,key))
-        final=""
+        final=[]
         while heap:
             x=heapq.heappop(heap)
-            for _ in range(-1*x[0]):
-                final+=str(x[1])
-        return final
+            final.append(x[1]*(-1*x[0]))
+        return "".join(final)
 
         
