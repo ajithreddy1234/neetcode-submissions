@@ -4,7 +4,7 @@ class Solution:
         n=len(matrix)*len(matrix[0])
         for i in range(len(matrix)):
             for j in range(len(matrix[i])):
-                heapq.heappush(heap,matrix[i][j])
-                if len(heap)>n-k+1:
+                heapq.heappush(heap,-1*matrix[i][j])
+                if len(heap)>k:
                     heapq.heappop(heap)
-        return heap[0]
+        return -1*heap[0]
