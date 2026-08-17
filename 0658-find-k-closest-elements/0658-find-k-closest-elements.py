@@ -9,7 +9,7 @@ class Solution:
         for r in range(len(arr)):
             running_res+=abs(arr[r]-x)
             if r-l+1==k:
-                if not running_res>=res:
+                if running_res<res:
                     mg=(l,r)
                     res=running_res
                 running_res-=abs(arr[l]-x)
