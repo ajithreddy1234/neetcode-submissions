@@ -1,12 +1,13 @@
 class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:
         x=Counter(tasks)
-        o=list(x.values())
-        o.sort()
-        m=deque(o)
-        k=m.pop()
+        heap=[]
+        for num in x.values():
+            heapq.heappush(heap,-1*num)
+        k=-1*heapq.heappop(heap)
         idle=(k-1)*n
-        for n in m:
+        for _ in range(len(heap)):
+            n=-1*heapq.heappop(heap)
             idle-=n
             if n==k:
                 idle+=1
