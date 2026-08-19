@@ -1,31 +1,24 @@
+from collections import Counter, deque
+
 class Solution:
     def reorganizeString(self, s: str) -> str:
-        counter=Counter(s)
-        some=[]
+        counter = Counter(s)
+        heap=[]
         for key,value in counter.items():
-            some.append([value,key])
-        some.sort(reverse=True)
-        some=deque(some)
+            heapq.heappush(heap,(-value,key))
+        old_frq=0
+        olf_key=""
         final=''
-        while some:
-            if len(some)==1 and some[0][0]>1:
-                return ""
-            final+=some[0][1]
-            some[0][0]-=1
-            if some[0][0]!=0:
-                i=0
-                while i+1<len(some):
-                    some[i],some[i+1]=some[i+1],some[i]
-                    if some[i][0]<some[i+1][0]:
-                        break
-                    i+=1      
-            else:
-                some.popleft()
+        while heap:
+            x,y=heapq.heappop(heap)
+            final+=y
+            x+=1
+            if old_frq<0:
+                heapq.heappush(heap,(old_frq,olf_key))
+            old_frq=x
+            olf_key=y
+        if old_frq<0:
+            return ""
         return final
-
-
-
-
-
-
+            
         
