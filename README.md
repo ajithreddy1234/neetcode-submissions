@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1046-last-stone-weight) |
+| [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -207,6 +208,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0904-fruit-into-baskets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -218,6 +220,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0630-course-schedule-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
+| [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 ## Counting
 |  |
 | ------- |
@@ -369,6 +372,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
