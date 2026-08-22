@@ -410,6 +410,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -456,6 +457,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -538,6 +540,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -657,5 +660,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
