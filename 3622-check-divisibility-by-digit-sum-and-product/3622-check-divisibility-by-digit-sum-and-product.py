@@ -1,11 +1,14 @@
 class Solution:
     def checkDivisibility(self, n: int) -> bool:
-        su=0
+        original=n
         pr=1
-        for m in str(n):
-            su+=int(m)
-            pr*=int(m)
-        return n%(su+pr)==0
+        su=0
+        while n>0:
+            x=n%10
+            pr*=x
+            su+=x
+            n=n//10
+        return original%(su+pr)==0
 
 
         
