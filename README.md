@@ -107,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
@@ -496,6 +497,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 ## Algorithm X
 |  |
@@ -575,6 +577,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
