@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
@@ -495,6 +497,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0200-number-of-islands](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -568,6 +571,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
