@@ -485,6 +485,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0687-longest-univalue-path](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -583,6 +584,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -706,7 +708,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0133-clone-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
