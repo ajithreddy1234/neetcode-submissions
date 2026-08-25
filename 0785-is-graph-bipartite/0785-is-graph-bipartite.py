@@ -8,7 +8,7 @@ class Solution:
             color[i]=1
             dq=deque([i])
             while dq:
-                m=dq.popleft()
+                m=dq.pop()
                 for nei in graph[m]:
                     if color[nei]==0:
                         color[nei]=-1*color[m]
