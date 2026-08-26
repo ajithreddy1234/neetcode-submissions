@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0040-combination-sum-ii) |
@@ -344,6 +345,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0086-partition-list) |
