@@ -8,13 +8,10 @@ class Solution:
             else:
                 possi.append(num)
         final=[]
-        for i in range(max(len(possi),len(neg))):
-            if i<len(possi):
-                final.append(possi[i])
-            if i<len(neg):
-                final.append(neg[i])
+        for i in range(len(possi)):
+            final.append(possi[i])
+            final.append(neg[i])
         return final
-        
 
 
         
