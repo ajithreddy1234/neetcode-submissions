@@ -491,6 +491,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -597,6 +598,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0207-course-schedule](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -734,6 +736,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0133-clone-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -747,6 +750,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0207-course-schedule](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Kosaraju's Algorithm
