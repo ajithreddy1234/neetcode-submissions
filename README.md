@@ -203,6 +203,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,6 +321,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Stack
 |  |
