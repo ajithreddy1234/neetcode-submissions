@@ -4,9 +4,7 @@ class Solution:
         if n==1:
             return ""
         mg=list(palindrome)
-        for i in range(n):
-            if n%2!=0 and i==n//2:
-                continue
+        for i in range(n//2):
             if mg[i]>"a":
                 mg[i]="a"
                 return "".join(mg)
