@@ -246,6 +246,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0630-course-schedule-iii) |
+| [0670-maximum-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0670-maximum-swap) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
@@ -315,6 +316,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0002-add-two-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0670-maximum-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
