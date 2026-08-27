@@ -121,6 +121,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
@@ -170,6 +171,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
@@ -412,6 +414,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0540-single-element-in-a-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
@@ -457,6 +460,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Backtracking
@@ -526,6 +530,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
@@ -543,6 +548,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2392-build-a-matrix-with-conditions](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -636,6 +642,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -807,4 +814,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
