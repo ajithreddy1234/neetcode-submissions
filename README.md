@@ -114,6 +114,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -537,6 +538,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [2392-build-a-matrix-with-conditions](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -627,6 +629,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
