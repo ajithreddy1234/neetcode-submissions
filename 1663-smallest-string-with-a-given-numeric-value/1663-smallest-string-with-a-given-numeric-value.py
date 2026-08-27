@@ -1,16 +1,13 @@
 class Solution:
     def getSmallestString(self, n: int, k: int) -> str:
         m=n
-        stack=[]
+        s=""
         cur_sum=0
-        while len(stack)!=m:
+        while len(s)!=m:
             x=k-cur_sum
             value=min(26,x-(n-1))
-            stack.append(value)
+            s+=chr(value-1+ord("a"))
             cur_sum+=value
             n-=1
-        s=""
-        for ele in reversed(stack):
-            s+=chr(ele-1+ord("a"))
-        return s
+        return s[::-1]
         
