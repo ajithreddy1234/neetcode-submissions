@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
@@ -234,6 +235,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -337,6 +339,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -632,6 +635,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
@@ -815,4 +819,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
