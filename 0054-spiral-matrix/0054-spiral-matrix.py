@@ -1,6 +1,5 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        count=len(matrix)*len(matrix[0])
         i=0
         j=0
         rows=len(matrix)
@@ -19,8 +18,6 @@ class Solution:
                 final.append(matrix[i][j])
                 visited.add((i,j))
                 j+=1
-            if len(final)==count:
-                return final
             j-=1
             i,j=check(i,j)
             if (i,j) in visited:
@@ -30,8 +27,6 @@ class Solution:
                 visited.add((i,j))
                 i+=1
             i-=1
-            if len(final)==count:
-                return final
             i,j=check(i,j)
             if (i,j) in visited:
                 return final
@@ -40,8 +35,6 @@ class Solution:
                 visited.add((i,j))
                 j-=1
             j+=1
-            if len(final)==count:
-                return final
             i,j=check(i,j)
             if (i,j) in visited:
                 return final
@@ -49,8 +42,6 @@ class Solution:
                 final.append(matrix[i][j])
                 visited.add((i,j))
                 i-=1
-            if len(final)==count:
-                return final
             i+=1
             i,j=check(i,j)
             if (i,j) in visited:
