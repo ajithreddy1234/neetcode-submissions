@@ -145,6 +145,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -170,6 +171,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0703-kth-largest-element-in-a-stream](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
@@ -533,6 +535,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -645,6 +648,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -778,6 +782,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0886-possible-bipartition) |
@@ -822,6 +827,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
