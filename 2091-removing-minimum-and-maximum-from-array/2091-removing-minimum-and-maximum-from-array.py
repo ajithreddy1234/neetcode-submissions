@@ -1,14 +1,21 @@
 class Solution:
     def minimumDeletions(self, nums: List[int]) -> int:
-        mi=min(nums)
-        ma=max(nums)
-        mi_ind=0
-        ma_ind=0
-        n=len(nums)
-        for i in range(n):
-            if nums[i]==mi:
-                mi_ind=i
-            if nums[i]==ma:
-                ma_ind=i
-        print(mi,ma,mi_ind,ma_ind)
-        return min(max(ma_ind,mi_ind)+1,(n-(abs(ma_ind-mi_ind)-1)),n-min(ma_ind,mi_ind))
+
+        n = len(nums)
+
+        mi_ind = nums.index(min(nums))
+        ma_ind = nums.index(max(nums))
+
+        left = min(mi_ind, ma_ind)
+        right = max(mi_ind, ma_ind)
+
+        # Case 1: Delete both from the left
+        delete_left = right + 1
+
+        # Case 2: Delete both from the right
+        delete_right = n - left
+
+        # Case 3: Delete one from left and one from right
+        delete_both = (left + 1) + (n - right)
+
+        return min(delete_left, delete_right, delete_both)
