@@ -129,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-build-a-matrix-with-conditions](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -266,6 +267,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting
 |  |
 | ------- |
