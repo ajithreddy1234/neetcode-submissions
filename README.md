@@ -135,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-build-a-matrix-with-conditions](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3964-minimum-lights-to-illuminate-a-road) |
@@ -255,6 +256,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -437,6 +439,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0222-count-complete-tree-nodes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -572,6 +575,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2392-build-a-matrix-with-conditions](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2392-build-a-matrix-with-conditions) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
 | ------- |
@@ -670,6 +674,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
