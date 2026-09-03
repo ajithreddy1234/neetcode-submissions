@@ -1,35 +1,24 @@
 class Solution:
     def uniformArray(self, nums: list[int]) -> bool:
-        nums.sort()
-        def checkodd():
-            odds=[]
-            for num in nums:
-                if num%2!=0:
-                    odds.append(num)
-                elif num%2==0:
-                    if not odds:
-                        return False
-                    elif odds and odds[-1]<num:
-                        continue
-                    elif len(odds)>1 and odds[-1]==num:
-                        continue
-                    elif len(odds)<=1 and odds[-1]==num:
-                        return False
+
+        min_odd = float("inf")
+        min_even = float("inf")
+
+        for num in nums:
+
+            if num % 2:
+                min_odd = min(min_odd, num)
+
+            else:
+                min_even = min(min_even, num)
+
+        # No odd numbers -> all even
+        if min_odd == float("inf"):
             return True
-        def checkeven():
-            even=[]
-            for num in nums:
-                if num%2==0:
-                    even.append(num)
-                elif num%2!=0:
-                    return False
-            return True
-        if checkeven():
-            return True
-        elif checkodd():
-            return True
-        else:
-            return False
+
+        # Otherwise smallest odd must be smaller
+        # than smallest even
+        return min_odd < min_even
 
         
 
