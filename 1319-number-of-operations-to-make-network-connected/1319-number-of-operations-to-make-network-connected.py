@@ -1,6 +1,5 @@
 class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
-        connections.sort()
         class DSU:
             def __init__(self,n):
                 self.parents=[i for i in range(n)]
