@@ -1,9 +1,7 @@
 
 class Solution:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        n=0
-        for m,l in edges:
-            n=max(n,m,l)
+        n=len(edges)
         class DSU:
             def __init__(self,n):
                 self.parent=[i for i in range(n+1)]
