@@ -5,19 +5,15 @@ class Solution:
             odds=[]
             for num in nums:
                 if num%2!=0:
-                    print(num)
                     odds.append(num)
                 elif num%2==0:
-                    print(num)
                     if not odds:
-                        print(0)
                         return False
                     elif odds and odds[-1]<num:
                         continue
                     elif len(odds)>1 and odds[-1]==num:
                         continue
                     elif len(odds)<=1 and odds[-1]==num:
-                        print(1)
                         return False
             return True
         def checkeven():
