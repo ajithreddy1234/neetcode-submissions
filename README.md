@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0658-find-k-closest-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0778-swim-in-rising-water) |
@@ -203,6 +204,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0630-course-schedule-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -247,6 +249,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
@@ -355,6 +358,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -479,6 +483,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0886-possible-bipartition) |
@@ -545,6 +550,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0684-redundant-connection](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0778-swim-in-rising-water) |
@@ -661,6 +667,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0662-maximum-width-of-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
