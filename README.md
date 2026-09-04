@@ -248,6 +248,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -363,6 +364,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0127-word-ladder](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -676,6 +678,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
@@ -892,6 +895,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 ## Minimax
 |  |
