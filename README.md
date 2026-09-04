@@ -257,6 +257,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -489,6 +490,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0778-swim-in-rising-water](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
@@ -563,6 +565,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -818,6 +821,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0802-find-eventual-safe-states](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -851,6 +855,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
