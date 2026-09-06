@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
@@ -373,6 +374,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0127-word-ladder](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -502,6 +504,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
@@ -564,6 +567,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -691,6 +695,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0210-course-schedule-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -845,6 +850,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0207-course-schedule](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
@@ -898,6 +904,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -921,10 +928,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Floyd–Warshall Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Minimum Spanning Tree
 |  |
