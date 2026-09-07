@@ -111,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0827-making-a-large-island) |
@@ -165,6 +166,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
@@ -272,6 +274,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
