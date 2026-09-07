@@ -1,11 +1,13 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp=[-1]*(n+1)
-        for i in range(n+1):
-            if i<=1:
-                dp[i]=i
-            else:
-                dp[i]=dp[i-1]+dp[i-2]
-        return dp[n]
+        prev1=1
+        prev2=0
+        if n==0:
+            return prev2
+        for i in range(2,n):
+            temp=prev1
+            prev1=prev1+prev2
+            prev2=temp
+        return prev1+prev2
 
         
