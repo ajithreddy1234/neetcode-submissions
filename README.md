@@ -154,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
@@ -364,6 +365,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0670-maximum-swap) |
@@ -502,6 +504,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
