@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0200-number-of-islands](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
@@ -155,6 +156,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
@@ -698,6 +700,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0210-course-schedule-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
@@ -966,4 +969,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
