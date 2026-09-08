@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0198-house-robber) |
@@ -165,6 +166,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0070-climbing-stairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0198-house-robber) |
