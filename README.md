@@ -123,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0909-snakes-and-ladders) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -178,6 +179,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -647,6 +649,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0778-swim-in-rising-water](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
