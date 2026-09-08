@@ -14,7 +14,6 @@ class Solution:
                     obstacleGrid[i][j]+=obstacleGrid[i-1][j]
                 if j>0:
                     obstacleGrid[i][j]+=obstacleGrid[i][j-1]
-        print(obstacleGrid)
         return obstacleGrid[rows-1][cols-1]
 
         
