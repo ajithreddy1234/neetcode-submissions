@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +159,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0115-distinct-subsequences) |
@@ -629,6 +631,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
