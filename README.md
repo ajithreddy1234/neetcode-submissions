@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -168,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0120-triangle) |
@@ -432,6 +434,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0143-reorder-list) |
@@ -525,6 +528,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -648,6 +652,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
