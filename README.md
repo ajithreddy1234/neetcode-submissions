@@ -138,6 +138,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1463-cherry-pickup-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -184,6 +185,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1463-cherry-pickup-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Queue
@@ -657,6 +659,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1463-cherry-pickup-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
