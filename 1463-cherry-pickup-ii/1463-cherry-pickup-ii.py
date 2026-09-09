@@ -1,56 +1,28 @@
 class Solution:
     def cherryPickup(self, grid: List[List[int]]) -> int:
-        rows = len(grid)
-        cols = len(grid[0])
-
-        # dp[row][col1][col2]
-        # = maximum cherries collectable from this state to the bottom
-        dp = [
-            [[float("-inf")] * cols for _ in range(cols)]
-            for _ in range(rows)
-        ]
-
-        # Base case: last row
+        rows=len(grid)
+        cols=len(grid[0])
+        dp=[[[float("-inf") for _ in range(cols)] for _ in range(cols)] for _ in range(rows)]
+        print(dp)
         for col1 in range(cols):
             for col2 in range(cols):
-                if col1 == col2:
-                    dp[rows - 1][col1][col2] = grid[rows - 1][col1]
+                if col1==col2:
+                    dp[rows-1][col1][col2]=grid[rows-1][col1]
                 else:
-                    dp[rows - 1][col1][col2] = (
-                        grid[rows - 1][col1]
-                        + grid[rows - 1][col2]
-                    )
-
-        # Fill from bottom to top
-        for row in range(rows - 2, -1, -1):
+                    dp[rows-1][col1][col2]=grid[rows-1][col1]+grid[rows-1][col2]
+        for r in range(rows-2,-1,-1):
             for col1 in range(cols):
                 for col2 in range(cols):
-
-                    # cherries collected on current row
-                    if col1 == col2:
-                        current = grid[row][col1]
+                    if col1==col2:
+                        dp[r][col1][col2]=grid[r][col1]
                     else:
-                        current = grid[row][col1] + grid[row][col2]
-
-                    best = float("-inf")
-
-                    # 3 moves for robot 1 × 3 moves for robot 2
-                    for move1 in [-1, 0, 1]:
-                        for move2 in [-1, 0, 1]:
-
-                            next_col1 = col1 + move1
-                            next_col2 = col2 + move2
-
-                            if (
-                                0 <= next_col1 < cols
-                                and 0 <= next_col2 < cols
-                            ):
-                                best = max(
-                                    best,
-                                    dp[row + 1][next_col1][next_col2]
-                                )
-
-                    dp[row][col1][col2] = current + best
-
-        # Initial robot positions
-        return dp[0][0][cols - 1]
+                        dp[r][col1][col2]=grid[r][col1]+grid[r][col2]
+                    best=float("-inf")
+                    for m1 in [-1,0,1]:
+                        for m2 in [-1,0,1]:
+                            nx=col1+m1
+                            ny=col2+m2
+                            if 0<=nx<cols and 0<=ny<cols:
+                                best=max(best,dp[r+1][nx][ny])
+                    dp[r][col1][col2]+=best
+        return dp[0][0][cols-1]
