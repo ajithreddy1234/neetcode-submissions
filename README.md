@@ -107,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
+| [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -182,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
@@ -582,6 +584,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0113-path-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1041,4 +1045,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
