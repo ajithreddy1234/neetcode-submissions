@@ -133,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
@@ -192,6 +193,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1036,6 +1038,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1049,6 +1052,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 ## Enumeration
 |  |
 | ------- |
