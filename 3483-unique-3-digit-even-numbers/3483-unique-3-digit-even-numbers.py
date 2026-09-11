@@ -1,26 +1,29 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        consi=set()
-        n=len(digits)
-        s=[]
-        visited=set()
-        count=0
-        for i in range(n):
-            if digits[i]==0:
-                continue
-            for j in range(n):
-                if j==i:
-                    continue
-                for k in range(n):
-                    if k==i or k==j:
-                        continue
-                    x=digits[i]*100+digits[j]*10+digits[k]
-                    if digits[k]%2==0 and x not in visited and x>99:
-                        visited.add(x)
-                        count+=1
-                        
-        return count
+        freq = [0] * 10
 
+        for digit in digits:
+            freq[digit] += 1
+
+        count = 0
+
+        for number in range(100, 1000, 2):
+            a = number // 100
+            b = (number // 10) % 10
+            c = number % 10
+
+            freq[a] -= 1
+            freq[b] -= 1
+            freq[c] -= 1
+
+            if freq[a] >= 0 and freq[b] >= 0 and freq[c] >= 0:
+                count += 1
+
+            freq[a] += 1
+            freq[b] += 1
+            freq[c] += 1
+
+        return count
 
                     
 
