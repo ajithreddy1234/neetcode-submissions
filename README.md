@@ -159,6 +159,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-build-a-matrix-with-conditions](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -201,6 +202,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1463-cherry-pickup-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -513,6 +516,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
