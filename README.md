@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
+| [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +190,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0377-combination-sum-iv](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0518-coin-change-ii) |
@@ -433,6 +435,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
@@ -1047,6 +1050,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
@@ -1063,6 +1067,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 ## Enumeration
