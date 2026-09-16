@@ -193,6 +193,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
@@ -437,6 +438,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
