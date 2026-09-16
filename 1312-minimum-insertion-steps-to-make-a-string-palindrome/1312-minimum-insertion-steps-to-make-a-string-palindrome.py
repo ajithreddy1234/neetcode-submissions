@@ -5,7 +5,6 @@ class Solution:
             return 0
         dp=[[0 for i in range(len(s)+1)] for i in range(len(s)+1)]
         for i in range(n-1,-1,-1):
-            dp[i][i]=0
             for j in range(i+1,n):
                 if s[i]==s[j]:
                     dp[i][j]=dp[i+1][j-1]
