@@ -148,6 +148,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1463-cherry-pickup-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -209,6 +210,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -288,6 +290,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0904-fruit-into-baskets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
@@ -326,6 +329,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -526,6 +530,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0540-single-element-in-a-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0778-swim-in-rising-water) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
