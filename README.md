@@ -203,6 +203,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0931-minimum-falling-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -450,6 +451,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1092-shortest-common-supersequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -1088,5 +1090,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
