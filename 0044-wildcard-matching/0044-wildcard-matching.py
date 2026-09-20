@@ -1,49 +1,18 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-
         n1 = len(s)
         n2 = len(p)
-
-        dp = [[-1] * (n2 + 1) for _ in range(n1 + 1)]
-
-        def solve(i, j):
-
-            # Both strings exhausted
-            if i == n1 and j == n2:
-                return True
-
-            # Pattern exhausted, but string remains
-            if j == n2:
-                return False
-
-            # String exhausted:
-            # Remaining pattern must contain only '*'
-            if i == n1:
-                return all(ch == "*" for ch in p[j:])
-
-            if dp[i][j] != -1:
-                return dp[i][j]
-
-            # Exact match or '?'
-            if s[i] == p[j] or p[j] == "?":
-
-                ans = solve(i + 1, j + 1)
-
-            # '*' can match zero or more characters
-            elif p[j] == "*":
-
-                skip = solve(i, j + 1)
-
-                take = solve(i + 1, j)
-
-                ans = skip or take
-
-            # Ordinary character mismatch
-            else:
-                ans = False
-
-            dp[i][j] = ans
-
-            return ans
-
-        return solve(0, 0)
+        dp = [[False] * (n2 + 1) for _ in range(n1 + 1)]
+        dp[n1][n2]=True
+        for i in range(n2-1,-1,-1):
+            if p[i]=="*":
+                dp[n1][i]=dp[n1][i+1]
+        for i in range(n1-1,-1,-1):
+            for j in range(n2-1,-1,-1):
+                if s[i]==p[j] or p[j]=="?":
+                    dp[i][j]=dp[i+1][j+1]
+                elif p[j]=="*":
+                    dp[i][j]=dp[i+1][j] or dp[i][j+1]
+                else:
+                    dp[i][j]=False
+        return dp[0][0]
