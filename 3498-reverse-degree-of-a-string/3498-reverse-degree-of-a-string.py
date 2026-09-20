@@ -1,8 +1,8 @@
 class Solution:
     def reverseDegree(self, s: str) -> int:
-        total=0
-        for i in range(len(s)):
-            total+=(ord("z")-ord(s[i])+1)*(i+1)
-            print(total)
+        total = 0
+
+        for i, ch in enumerate(s, 1):
+            total += (123 - ord(ch)) * i
+
         return total
-        
