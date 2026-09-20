@@ -1,20 +1,22 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: list[str]) -> bool:
         n=len(s)
-        memo=[-1 for i in range(n+1)]
+        memo=[[-1 for i in range(n+1)] for i in range(n+1)]
         seen=set(wordDict)
-        def solve(i):
-            if i==n:
-                return True
-            if memo[i]!=-1:
-                return memo[i]
-            for j in range(i+1,n+1):
-                word=s[i:j]
-                if word in seen:
-                    if solve(j):
-                        memo[i]=True
-                        return True
-            memo[i]=False
-            return False
-        return solve(0)
+        def solve(i,j):
+            if j==n:
+                return s[i:j] in seen
+            if memo[i][j]!=-1:
+                return memo[i][j]
+            word=s[i:j+1]
+            if word in seen:
+                b=solve(j+1,j+1)
+                a=solve(i,j+1)
+                best=a or b
+            else:
+                best=solve(i,j+1)
+            memo[i][j]=best
+            return best
+        m=solve(0,0)
+        return m
         
