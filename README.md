@@ -139,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -210,6 +211,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1143-longest-common-subsequence) |
@@ -281,6 +283,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -338,6 +341,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -468,6 +472,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
@@ -515,6 +520,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Floyd's Cycle Finding Algorithm
