@@ -100,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0221-maximal-square](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0377-combination-sum-iv) |
@@ -191,6 +192,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0198-house-robber](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
@@ -538,6 +540,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
@@ -1110,4 +1113,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
