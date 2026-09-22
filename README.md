@@ -170,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -227,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -446,6 +448,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0670-maximum-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3524-find-x-value-of-array-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
