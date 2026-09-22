@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0189-rotate-array) |
@@ -190,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0091-decode-ways](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0139-word-break) |
