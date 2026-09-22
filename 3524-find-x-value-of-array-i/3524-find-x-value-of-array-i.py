@@ -16,7 +16,6 @@ class Solution:
                 mg=(val*r)%k
                 count[mg]+=c
             memo[i]=count
-            print(count)
             return count
         solve(0)
         final=[0]*k
