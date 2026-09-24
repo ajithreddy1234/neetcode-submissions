@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0200-number-of-islands) |
@@ -198,6 +199,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0124-binary-tree-maximum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0221-maximal-square) |
