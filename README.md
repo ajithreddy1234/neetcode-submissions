@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
@@ -281,6 +282,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -1158,4 +1160,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
