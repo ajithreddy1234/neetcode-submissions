@@ -100,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0213-house-robber-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0322-coin-change) |
@@ -590,6 +591,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
