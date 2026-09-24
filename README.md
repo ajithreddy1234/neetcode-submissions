@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0051-n-queens](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
