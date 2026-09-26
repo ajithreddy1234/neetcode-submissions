@@ -131,6 +131,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
@@ -227,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0518-coin-change-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
@@ -391,6 +393,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0670-maximum-swap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
