@@ -180,6 +180,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -251,6 +252,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
@@ -327,6 +329,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0054-spiral-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3498-reverse-degree-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -446,6 +449,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0328-odd-even-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
@@ -541,6 +545,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -636,6 +641,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Ordered Set
 |  |
 | ------- |
