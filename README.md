@@ -170,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -371,6 +372,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -507,6 +509,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1328-break-a-palindrome) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
