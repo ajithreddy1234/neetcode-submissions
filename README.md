@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0037-sudoku-solver) |
@@ -495,6 +496,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
@@ -1010,6 +1012,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## Geometry
