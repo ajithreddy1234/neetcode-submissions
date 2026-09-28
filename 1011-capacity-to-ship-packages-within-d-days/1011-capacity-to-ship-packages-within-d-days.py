@@ -15,11 +15,11 @@ class Solution:
                 currCap -= w
             return True
 
-        while l <r:
+        while l <=r:
             cap = (l + r) // 2
             if canShip(cap):
                 res = min(res, cap)
-                r = cap
+                r = cap-1
             else:
                 l = cap + 1
 
