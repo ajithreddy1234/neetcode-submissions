@@ -519,6 +519,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0752-open-the-lock](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1092-shortest-common-supersequence) |
@@ -548,6 +549,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -1212,5 +1214,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
