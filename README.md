@@ -457,6 +457,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -548,6 +549,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
+| [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -649,6 +651,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
+| [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1002,6 +1005,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 ## Bucket Sort
 |  |
 | ------- |
