@@ -497,6 +497,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
@@ -537,6 +538,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1209,5 +1211,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
