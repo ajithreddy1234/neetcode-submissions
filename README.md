@@ -199,6 +199,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
@@ -499,6 +500,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
@@ -693,6 +695,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0040-combination-sum-ii) |
@@ -1218,6 +1221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Database
