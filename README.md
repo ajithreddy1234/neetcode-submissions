@@ -1220,4 +1220,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
