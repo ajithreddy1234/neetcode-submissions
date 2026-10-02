@@ -1225,4 +1225,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0595-big-countries](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
