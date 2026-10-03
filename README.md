@@ -199,6 +199,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0062-unique-paths) |
@@ -498,6 +499,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0022-generate-parentheses) |
@@ -562,6 +564,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0031-next-permutation) |
@@ -1231,4 +1234,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0620-not-boring-movies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1683-invalid-tweets) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
