@@ -343,6 +343,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0658-find-k-closest-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
@@ -385,6 +386,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
 | [1345-jump-game-iv](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -534,6 +536,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1328-break-a-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
