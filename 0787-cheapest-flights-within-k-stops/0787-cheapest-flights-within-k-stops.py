@@ -13,27 +13,23 @@ class Solution:
     ) -> int:
 
         adj = defaultdict(list)
-        max_flights=k+1
-        dist=[[float("inf") for _ in range(n)] for _ in range(max_flights+1)]
-        print(dist)
+
         for u, v, w in flights:
             adj[u].append((v, w))
 
-        # heap: (cost, node, flights_used)
-        heap = [(0, src, 0)]
-        dist[0][src]=0
+        heap = []
+        heapq.heappush(heap, (0, src, 0))
+        dist=[[float("inf") for i in range(k+2)] for i in range(n)]
         while heap:
-            cost, node, flights_used = heapq.heappop(heap)
-            if cost>dist[flights_used][node]:
+            co, node, fl = heapq.heappop(heap)
+            if fl > k:
                 continue
-            if node == dst:
-                return cost
-            if flights_used == k + 1:
+            if dist[node][fl]<co:
                 continue
-            for nei, weight in adj[node]:
-                new_cost = cost + weight
-
-                if new_cost<dist[flights_used+1][nei]:
-                    dist[flights_used+1][nei]=new_cost
-                    heapq.heappush(heap,(new_cost,nei,flights_used + 1))
-        return -1
+            for nei, extra in adj[node]:
+                new_cost = extra + co
+                if dist[nei][fl+1]>new_cost:
+                    heapq.heappush(heap, (new_cost, nei, fl + 1))
+                    dist[nei][fl+1]=new_cost
+        mark=min(dist[dst])
+        return mark if mark!=float("inf") else -1
