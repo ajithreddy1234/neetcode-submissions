@@ -1241,6 +1241,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0620-not-boring-movies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1683-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1873-calculate-special-bonus) |
 ## Manacher
 |  |
 | ------- |
