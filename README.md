@@ -1242,6 +1242,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1148-article-views-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1873-calculate-special-bonus) |
+| [1934-confirmation-rate](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1934-confirmation-rate) |
 ## Manacher
 |  |
 | ------- |
