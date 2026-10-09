@@ -178,6 +178,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1696-jump-game-vi](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1765-map-of-highest-peak](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -325,6 +326,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1048-longest-string-chain](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1202-smallest-string-with-swaps) |
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -350,6 +352,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1499-max-value-of-equation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
@@ -416,6 +419,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1383-maximum-performance-of-a-team](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 ## Counting
@@ -632,6 +636,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -655,6 +660,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0930-binary-subarrays-with-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Monotonic Stack
