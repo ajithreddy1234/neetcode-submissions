@@ -1,19 +1,14 @@
 class Solution:
     def generate(self, numRows: int) -> list[list[int]]:
-        def factorial(i):
-            if i==0:
-                return 1
-            val=1
-            for j in range(1,i+1):
-                val*=j
-            return val
-        final=[]
-        for i in range(numRows):
-            x=[]
-            for j in range(i+1):
-                v=factorial(i)//(factorial(j)*factorial(i-j))
-                x.append(v)
-            final.append(x)
+        final=[[1]]
+        for i in range(numRows-1):
+            x=final[-1]
+            cur=[]
+            cur.append(1)
+            for k in range(1,len(x)):
+                cur.append(x[k]+x[k-1])
+            cur.append(1)
+            final.append(cur)
         return final
 
 
