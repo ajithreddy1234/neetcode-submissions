@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0040-combination-sum-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
@@ -503,6 +504,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0189-rotate-array) |
@@ -812,6 +814,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
