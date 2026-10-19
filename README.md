@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
@@ -312,6 +313,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -591,6 +593,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0141-linked-list-cycle) |
@@ -1250,6 +1253,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -1271,4 +1275,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
