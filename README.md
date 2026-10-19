@@ -100,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0198-house-robber) |
@@ -309,6 +310,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0047-permutations-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0368-largest-divisible-subset) |
@@ -370,6 +372,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0142-linked-list-cycle-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -428,6 +431,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -610,6 +614,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1178,6 +1183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0229-majority-element-ii) |
 ## 0-1 BFS
 |  |
