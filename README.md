@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
@@ -640,6 +641,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -819,6 +821,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0063-unique-paths-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0200-number-of-islands) |
