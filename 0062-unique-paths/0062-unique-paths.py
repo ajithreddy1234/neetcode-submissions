@@ -1,13 +1,19 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        dp=[[0 for i in range(n)] for j in range(m)]
-        dp[0][0]=1
-        for i in range(m):
-            for j in range(n):
-                if 0<=i-1<m:
-                    dp[i][j]+=dp[i-1][j]
-                if 0<=j-1<n:
-                    dp[i][j]+=dp[i][j-1]
-        return dp[m-1][n-1]
-
+        dp=[[-1 for i in range(n)] for i in range(m)]
+        def solve(i,j):
+            if i>=m or j>=n:
+                return 0
+            if i==m-1 and j==n-1:
+                return 1
+            if dp[i][j]!=-1:
+                return dp[i][j]
+            x=0
+            if i+1<m:
+                x+=solve(i+1,j)
+            if j+1<n:
+                x+=solve(i,j+1)
+            dp[i][j]=x
+            return x
+        return solve(0,0)
         
