@@ -1,16 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        see={"(":")","[":"]","{":"}"}
+        st={'(':')','[':']','{':'}'}
         stack=[]
-        for e in s:
-            if e in see:
-                stack.append(see[e])
-            elif stack and e==stack[-1]:
+        for ele in s:
+            if stack and st[stack[-1]]==ele:
                 stack.pop()
-            else:
+            elif ele in ")]}":
                 return False
-        if not stack:
-            return True
-        return False
-            
+            else:
+                stack.append(ele)
+        return len(stack)==0
         
