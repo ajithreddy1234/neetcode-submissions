@@ -1,25 +1,40 @@
 class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
-        ans=[]
-        board=[["."]*n for _ in range(n)]
-        col=set()
-        diag=set()
-        neg_diag=set()
+    def solveNQueens(self, n: int) -> list[list[str]]:
+        board=[["." for i in range(n)] for i in range(n)]
+        res=[]
+        def check(r,c,board):
+            row=r-1
+            while row>=0:
+                if board[row][c]=="Q":
+                    return False
+                row-=1
+            row,col=r-1,c-1
+            while row>=0 and col>=0:
+                if board[row][col]=="Q":
+                    return False
+                row-=1
+                col-=1
+            row,col=r-1,c+1
+            while row>=0 and col<n:
+                if board[row][col]=="Q":
+                    return False
+                row-=1
+                col+=1
+            return True
         def backtrack(r):
             if r==n:
-                ans.append(["".join(boar) for boar in board])
-            for i in range(n):
-                if i in col or r+i in diag or r-i in neg_diag:
-                    continue
-                board[r][i]="Q"
-                col.add(i)
-                diag.add(r+i)
-                neg_diag.add(r-i)
-                backtrack(r+1)
-                board[r][i]="."
-                col.remove(i)
-                diag.remove(r+i)
-                neg_diag.remove(r-i)
-
+                ls=[]
+                for i in range(r):
+                    ls.append("".join(board[i]))
+                res.append(ls)
+                return
+            for c in range(n):
+                if check(r,c,board):
+                    board[r][c]="Q"
+                    backtrack(r+1)
+                    board[r][c]="."
         backtrack(0)
-        return ans
+        return res
+
+
+        
