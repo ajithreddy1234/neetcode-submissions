@@ -1,21 +1,19 @@
 class Solution:
-    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+    def combinationSum2(self, candidates: list[int], target: int) -> list[list[int]]:
         candidates.sort()
-        def backtrack(start,cur,total):
-            if total==target:
-                ans.append(cur[:])
-                return
-            if total>target:
-                return
-            for i in range(start,len(candidates)):
-                if i>start and candidates[i]==candidates[i-1]:
+        res=[]
+        def backtrack(index,state,su):
+            if su==target:
+                res.append(state[:])
+            for choice in range(index,len(candidates)):
+                if choice>index and candidates[choice]==candidates[choice-1]:
                     continue
-                cur.append(candidates[i])
-                total+=candidates[i]
-                backtrack(i+1,cur,total)
-                m=cur.pop()
-                total-=m
-        ans=[]
+                if su+candidates[choice]>target:
+                    continue
+                state.append(candidates[choice])
+                backtrack(choice+1,state,su+candidates[choice])
+                state.pop()
+
         backtrack(0,[],0)
-        return ans
+        return res
         
