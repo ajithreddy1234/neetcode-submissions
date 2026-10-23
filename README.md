@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0074-search-a-2d-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0118-pascals-triangle) |
@@ -584,6 +585,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -704,6 +706,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0496-next-greater-element-i) |
@@ -1302,4 +1305,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
