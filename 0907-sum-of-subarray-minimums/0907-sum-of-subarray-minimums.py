@@ -1,17 +1,43 @@
-from typing import List
-
 class Solution:
-    def sumSubarrayMins(self, arr: List[int]) -> int:
-        Mod=10**9+7
-        ans=0
-        stack=[]
-        for i in range(len(arr)+1):
-            curr=arr[i] if i<len(arr) else 0
-            while stack and arr[stack[-1]]>curr:
-                mg=stack.pop()
-                l=stack[-1] if stack else -1
-                left=mg-l
-                right=i-mg
-                ans+=(arr[mg]*left*right)
+    def findNSE(self, arr: list[int]) -> list[int]:
+        n = len(arr)
+        nse = [n] * n
+        stack = []
+
+        for i in range(n - 1, -1, -1):
+            while stack and arr[stack[-1]] >= arr[i]:
+                stack.pop()
+
+            nse[i] = stack[-1] if stack else n
             stack.append(i)
-        return ans%Mod
+
+        return nse
+
+    def findPSEE(self, arr: list[int]) -> list[int]:
+        n = len(arr)
+        psee = [-1] * n
+        stack = []
+
+        for i in range(n):
+            while stack and arr[stack[-1]] > arr[i]:
+                stack.pop()
+
+            psee[i] = stack[-1] if stack else -1
+            stack.append(i)
+
+        return psee
+
+    def sumSubarrayMins(self, arr: list[int]) -> int:
+        nse = self.findNSE(arr)
+        psee = self.findPSEE(arr)
+
+        total = 0
+        mod = 10**9 + 7
+
+        for i in range(len(arr)):
+            left = i - psee[i]
+            right = nse[i] - i
+
+            total = (total + left * right * arr[i]) % mod
+
+        return total
