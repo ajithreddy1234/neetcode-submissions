@@ -133,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0474-ones-and-zeroes](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0542-01-matrix) |
@@ -393,6 +394,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0433-minimum-genetic-mutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -590,6 +592,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
@@ -703,6 +706,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
