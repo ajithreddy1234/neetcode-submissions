@@ -1,14 +1,17 @@
+from typing import List
+
 class Solution:
-    def sumSubarrayMins(self, arr: list[int]) -> int:
-        mg=[0]*len(arr)
+    def sumSubarrayMins(self, arr: List[int]) -> int:
+        Mod=10**9+7
+        ans=0
         stack=[]
-        for i in range(len(arr)):
-            while stack and arr[stack[-1]]>arr[i]:
-                stack.pop()
-            if not stack:
-                mg[i]=(i+1)*arr[i]
-            else:
-                mg[i]=(i-stack[-1])*arr[i]+mg[stack[-1]]
+        for i in range(len(arr)+1):
+            curr=arr[i] if i<len(arr) else 0
+            while stack and arr[stack[-1]]>curr:
+                mg=stack.pop()
+                l=stack[-1] if stack else -1
+                left=mg-l
+                right=i-mg
+                ans+=(arr[mg]*left*right)
             stack.append(i)
-        return sum(mg)%(7+10**9)
-        
+        return ans%Mod
