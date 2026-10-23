@@ -1,34 +1,23 @@
 class Solution(object):
     def longestPalindrome(self, s):
-        if len(s)<=1:
-            return s
-        n=len(s)
-        def check(i,j):
-            while i<j:
-                if s[i]!=s[j]:
-                    return False
-                i+=1
-                j-=1
-            return True
-        mg=""
+        ma=""
         for i in range(len(s)):
-            if len(mg)<1:
-                mg=s[i]
-            j=n-1
-            while i<j:
-                if s[i]==s[j]:
-                    if j-i+1>len(mg):
-                        if check(i,j):
-                            mg=s[i:j+1]
-                            break
-                j-=1
-        return mg
-            
-                
-                        
-
-
-
-
+            if len(ma)<1:
+                ma=s[i]
+            l=i
+            r=i+1
+            while l>=0 and r<len(s) and s[l]==s[r]:
+                if len(ma)<r-l+1:
+                    ma=s[l:r+1]
+                l-=1
+                r+=1
+            l=i-1
+            r=i+1
+            while l>=0 and r<len(s) and s[l]==s[r]:
+                if len(ma)<r-l+1:
+                    ma=s[l:r+1]
+                l-=1
+                r+=1
+        return ma
 
         
