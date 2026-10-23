@@ -495,6 +495,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
@@ -597,6 +598,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0143-reorder-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0496-next-greater-element-i) |
