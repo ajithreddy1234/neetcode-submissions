@@ -546,6 +546,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0076-minimum-window-substring) |
@@ -620,6 +621,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0018-4sum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0075-sort-colors) |
@@ -1045,6 +1047,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -1319,4 +1322,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
