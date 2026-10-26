@@ -197,6 +197,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1901-find-a-peak-element-ii](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -615,6 +616,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2104-sum-of-subarray-ranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -730,6 +732,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0901-online-stock-span](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2104-sum-of-subarray-ranges](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Ordered Set
 |  |
