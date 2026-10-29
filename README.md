@@ -379,6 +379,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
@@ -429,6 +430,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1695-maximum-erasure-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -590,6 +592,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ajithreddy1234/neetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
