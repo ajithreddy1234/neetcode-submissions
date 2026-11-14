@@ -1,5 +1,5 @@
 # Write your MySQL query statement belows
-select s.student_id,s.student_name,su.subject_name,count(case when su.subject_name=e.subject_name then 1 end) as attended_exams
+select s.student_id,s.student_name,su.subject_name,sum(case when su.subject_name=e.subject_name then 1 else 0 end) as attended_exams
 from Students s 
 cross join Subjects su
 left join Examinations e
