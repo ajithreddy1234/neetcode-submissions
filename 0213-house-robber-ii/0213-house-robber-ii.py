@@ -8,5 +8,5 @@ class Solution:
             for i in range(len(nums)):
                 second,first=first,max(second+nums[i],first)
             return max(second,first)
-        return max(rob(nums[1:]),rob(nums[:len(nums)-1]))
+        return max(rob(nums[1:]),rob(nums[:-1]))
         
